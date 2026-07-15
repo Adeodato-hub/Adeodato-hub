@@ -1,4 +1,5 @@
 👋 Hola, soy Rafael Adiosdado Caballero Diéguez
+
 🛡️ Analista de Ciberseguridad (Blue Team / SOC) · Especialista en convergencia IT/OT
 
 Del taller al SOC: 20+ años en fabricación industrial (CNC, robótica KUKA, corte láser, automatización) ahora aplicados a la defensa de infraestructuras. Hablo el idioma de la planta de producción y el del centro de operaciones de seguridad.

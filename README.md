@@ -6,7 +6,7 @@
 
 *From the shop floor to the SOC: 20+ years in industrial manufacturing (CNC, KUKA robotics, laser cutting, automation) now applied to cyber defense. I speak the language of both the factory floor and the security operations center.*
 
-🌐 [adeodato.es](https://adeodato.es) · 💼 [LinkedIn](https://www.linkedin.com/in/TU-URL-16230b372) · 📧 cabadier@gmail.com
+🌐 [adeodato.es](https://adeodato.es) · 💼 [LinkedIn](https://www.linkedin.com/in/rafael-adiosdado-caballero-diéguez-16230b372/) · 📧 cabadier@gmail.com
 
 ---
 

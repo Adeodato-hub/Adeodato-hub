@@ -68,3 +68,4 @@ Abierto a oportunidades como **Analista SOC / N1**, **Analista de ciberseguridad
 📧 **cabadier@gmail.com** · 📍 Lucena, Córdoba (España)
 
 *"La constancia construye lo que el talento solo promete."*
+

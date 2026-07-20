@@ -59,7 +59,7 @@ Sitio web de la marca **Adeodato** ([adeodato.es](https://adeodato.es)).
 
 **IA aplicada:** `Ollama` `RAG` `Triaje automatizado`
 
----
+--- 
 
 ### 📫 ¿Hablamos? · Let's connect
 
@@ -67,5 +67,5 @@ Abierto a oportunidades como **Analista SOC / N1**, **Analista de ciberseguridad
 
 📧 **cabadier@gmail.com** · 📍 Lucena, Córdoba (España)
 
-*"La constancia construye lo que el talento solo promete."*
+*"La constancia construye lo que el talento solo promete."* .
 

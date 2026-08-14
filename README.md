@@ -41,7 +41,7 @@ App que intercepta tráfico DNS vía `VpnService` y lo filtra mediante **DNS-ove
 
 ### 📱 AdeoSOC — "SOC de bolsillo" *(en desarrollo)*
 
-App Android que unifica **alertas IT (SIEM)** con **monitorización de seguridad OT** en una sola herramienta ligera. La combinación IT+OT en un producto personal es un hueco real de mercado.
+App Android que unifica **alertas IT (SIEM)** con **monitorización de seguridad OT Y RESPUESTA** en una sola herramienta ligera. La combinación IT+OT en un producto personal es un hueco real de mercado.
 
 ### 🌐 [adeodato-web](https://github.com/Adeodato-hub/adeodato-web) — Marca personal
 

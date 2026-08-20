@@ -39,7 +39,7 @@ Laboratorio SOC completo y documentado de extremo a extremo:
 
 App que intercepta tráfico DNS vía `VpnService` y lo filtra mediante **DNS-over-HTTPS**. Desarrollada en Kotlin.
 
-### 📱 AdeoSOC — "SOC de bolsillo" *(en desarrollo)*
+### 📱 AdeoSOC — "SOC de bolsillo"
 
 App Android que unifica **alertas IT (SIEM)** con **monitorización de seguridad OT Y RESPUESTA** en una sola herramienta ligera. La combinación IT+OT en un producto personal es un hueco real de mercado.
 

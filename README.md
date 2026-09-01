@@ -25,7 +25,7 @@
 
 ## 🚀 Proyectos destacados · Featured projects
 
-### 🦅 [SOC ADEODATO](https://github.com/Adeodato-hub/ARGOS) — Mini-SOC doméstico
+### 🦅 [SOC ADEODATO](https://github.com/Adeodato-hub/ARGOS) 
 
 Laboratorio SOC completo y documentado de extremo a extremo:
 

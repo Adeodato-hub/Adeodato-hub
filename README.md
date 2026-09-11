@@ -25,7 +25,7 @@
 
 ## 🚀 Proyectos destacados · Featured projects
 
-### 🦅 [SOC ADEODATO](https://github.com/Adeodato-hub/ARGOS) 
+### 🦅 [SOC ADEODATO](https://github.com/Adeodato-hub/SOC-Adeodato-showcase)
 
 Laboratorio SOC completo y documentado de extremo a extremo:
 
@@ -39,9 +39,14 @@ Laboratorio SOC completo y documentado de extremo a extremo:
 
 App que intercepta tráfico DNS vía `VpnService` y lo filtra mediante **DNS-over-HTTPS**. Desarrollada en Kotlin.
 
-### 📱 AdeoSOC — "SOC de bolsillo"
+### 📱 [AdeoSOC](https://github.com/Adeodato-hub/AdeoSOC-showcase) — "SOC de bolsillo"
 
 App Android que unifica **alertas IT (SIEM)** con **monitorización de seguridad OT Y RESPUESTA** en una sola herramienta ligera. La combinación IT+OT en un producto personal es un hueco real de mercado.
+
+### 🔎 [AdeoScout](https://github.com/Adeodato-hub/AdeoScout-showcase) — Inventario de activos IT/OT
+
+Agente ligero en **Go** que descubre e inventaría activos en red privada (read-only, huella
+mínima), marcando los de tecnología operativa (**OT**).
 
 ### 🌐 [adeodato-web](https://github.com/Adeodato-hub/adeodato-web) — Marca personal
 
